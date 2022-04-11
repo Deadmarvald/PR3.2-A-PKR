@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UT3.2A.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PR3.2A\PR3.2A\Source.cpp(227,15): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PR3.2A\Debug\UT3.2A.lib and object D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PR3.2A\Debug\UT3.2A.exp
+  UT3.2A.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PR3.2A\Debug\UT3.2A.dll
